@@ -5,7 +5,7 @@
 
 🏆 우리FISA 1차 기술 세미나 우수 프로젝트로 선정되었습니다.
 
-### [📑 PPT](https://drive.google.com/file/d/1hNHg8BM54aBaoCljuUbipmdP5_5JnKSf/view?usp=sharing) | [🎥 Docker를 활용한 MLOps 구축 시연](https://youtu.be/POb1gV_6WkM)
+### [📑 PPT](https://drive.google.com/file/d/1hNHg8BM54aBaoCljuUbipmdP5_5JnKSf/view?usp=sharing) | [🎥 Docker를 활용한 MLOps 구축 시연 영상](https://youtu.be/POb1gV_6WkM)
 
 > ⚠️ 본 streamlit 사이트는 ngrok으로 로컬을 외부에 공개한 것이라 보안상 프로젝트 진행 시에만 열어두며, 평상시에는 닫혀 있으니 시연은 영상을 참조해 주세요.
 
