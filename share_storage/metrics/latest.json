@@ -1,1 +1,1 @@
-{"version": 7, "accuracy_clean": 0.987, "accuracy_aug": 0.959, "loss_clean": 0.305228, "loss_aug": 0.120969, "ts": 1761623810}
+{"version": 10, "accuracy_clean": 0.985, "accuracy_aug": 0.949, "loss_clean": 0.165425, "loss_aug": 0.179368, "ts": 1761882922}
